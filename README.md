@@ -6,7 +6,7 @@ Python To-Do List Application – Task 2 assigned by Interncred
 - Users can view tasks
 - Users can update tasks
 - Users can delete tasks
-- Task data can be persisted using text file, JSON, or SQLite database
+- Task data can be persisted using text SQLite database
 
 ## Versions
 - **Console-Based (Easy):** Terminal version using Python basics, loops, functions, and file handling
